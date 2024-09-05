@@ -12,7 +12,7 @@ print(psg_players_dict)
 
 # Diccionario con datos de jugadores
 dict = {"Jugador": ["Navas", "Mbappe", "Neymar", "Messi"],
-        "Altura": [183.0, 170.0, 165.0],
+        "Altura": [183.0, 170.0,170.0, 165.0],
         "Goles": [2, 200, 150, 200]    
 }
 
