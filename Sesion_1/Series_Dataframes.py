@@ -12,9 +12,15 @@ print(psg_players_dict)
 
 # Diccionario con datos de jugadores
 dict = {"Jugador": ["Navas", "Mbappe", "Neymar", "Messi"],
+<<<<<<< HEAD
         "Altura": [183.0, 170.0, 170.0, 165.0],
         "Goles": [2, 200, 150, 200] }   
 
+=======
+        "Altura": [183.0, 170.0,170.0, 165.0],
+        "Goles": [2, 200, 150, 200]    
+}
+>>>>>>> 5e8dad442f4eb9cea562e11bc327c187d6d117b7
 
 df = pd.DataFrame(dict, index=[1,7,10,30])
 print(df)
